@@ -18,19 +18,19 @@ public class WheelOfFortune {
             gameFile.nextLine();
             i++;
         }
-
         System.out.println(lineNumber);
         String currentLine = gameFile.nextLine();
-        System.out.println(currentLine);
+        //System.out.println(currentLine);
         String guessBoard = "";
         for (int j=0; j<currentLine.length(); j++){
             guessBoard += "_";
         }
-        System.out.println("Your movie has "+currentLine.length()+" total characters and spaces.");
+        System.out.println("This movie title has "+currentLine.length()+" total characters and spaces.");
         System.out.println(guessBoard);
         System.out.println("Type any letter for your first guess!");
         Scanner scanner = new Scanner(System.in);
         String playerGuess = scanner.nextLine();
+        char[] finalAnswer = currentLine.toCharArray();
         if (currentLine.contains(playerGuess)) {
             System.out.println("Good guess! "+playerGuess+" is one of the letters.");
         } else {

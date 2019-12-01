@@ -18,7 +18,8 @@ public class WheelOfFortune {
             gameFile.nextLine();
             i++;
         }
-        System.out.println(lineNumber);
+        boolean winning = true;
+        //System.out.println(lineNumber);
         String currentLine = gameFile.nextLine();
         System.out.println(currentLine);
         String guessBoard = "";
@@ -27,19 +28,29 @@ public class WheelOfFortune {
         }
         System.out.println("This movie title has "+currentLine.length()+" total characters and spaces.");
         System.out.println(guessBoard);
-        System.out.println("Type any letter for your first guess!");
-        Scanner scanner = new Scanner(System.in);
-        String playerGuess = scanner.nextLine();
-        char[] finalAnswer = currentLine.toCharArray();
-        char[] guessArray = guessBoard.toCharArray();
-        char guessChar = playerGuess.charAt(0);
-        for (int k=0; k<=finalAnswer.length; k++ ) {
-            if ((finalAnswer[k])==guessChar) {
-                guessArray[k] = guessChar;
-                System.out.println(guessArray);
-                System.out.println(finalAnswer);
+
+
+        userInput:
+            while (winning) {
+                System.out.println("Type any letter for your guess!");
+                Scanner scanner = new Scanner(System.in);
+                String playerGuess = scanner.nextLine();
+                char[] finalAnswer = currentLine.toCharArray();
+                char[] guessArray = guessBoard.toCharArray();
+                char guessChar = playerGuess.charAt(0);
+                continueInput:
+                    for (int k = 0; k <= finalAnswer.length; k++) {
+                        if ((finalAnswer[k]) == guessChar) {
+                            guessArray[k] = guessChar;
+                            System.out.println(guessArray);
+                            System.out.println("Type any letter for your guess!");
+                            scanner = new Scanner(System.in);
+                            playerGuess = scanner.nextLine();
+                            guessChar = playerGuess.charAt(0);
+                            continue continueInput;
+                        }
+                    }
             }
-        }
     }
 }
 

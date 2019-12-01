@@ -31,6 +31,11 @@ public class WheelOfFortune {
         Scanner scanner = new Scanner(System.in);
         String playerGuess = scanner.nextLine();
         char[] finalAnswer = currentLine.toCharArray();
+        for (int k=0; k<=finalAnswer.length; k++ ) {
+            if (String.valueOf(finalAnswer[k])==playerGuess) {
+                System.out.println("Success");
+            }
+        }
         if (currentLine.contains(playerGuess)) {
             System.out.println("Good guess! "+playerGuess+" is one of the letters.");
         } else {

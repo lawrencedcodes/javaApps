@@ -20,7 +20,7 @@ public class WheelOfFortune {
         }
         System.out.println(lineNumber);
         String currentLine = gameFile.nextLine();
-        //System.out.println(currentLine);
+        System.out.println(currentLine);
         String guessBoard = "";
         for (int j=0; j<currentLine.length(); j++){
             guessBoard += "_";
@@ -31,15 +31,14 @@ public class WheelOfFortune {
         Scanner scanner = new Scanner(System.in);
         String playerGuess = scanner.nextLine();
         char[] finalAnswer = currentLine.toCharArray();
+        char[] guessArray = guessBoard.toCharArray();
+        char guessChar = playerGuess.charAt(0);
         for (int k=0; k<=finalAnswer.length; k++ ) {
-            if (String.valueOf(finalAnswer[k])==playerGuess) {
-                System.out.println("Success");
+            if ((finalAnswer[k])==guessChar) {
+                guessArray[k] = guessChar;
+                System.out.println(guessArray);
+                System.out.println(finalAnswer);
             }
-        }
-        if (currentLine.contains(playerGuess)) {
-            System.out.println("Good guess! "+playerGuess+" is one of the letters.");
-        } else {
-            System.out.println("Nope, that's not in the movie title. Game over.");
         }
     }
 }

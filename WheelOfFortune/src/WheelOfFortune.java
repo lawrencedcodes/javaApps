@@ -18,6 +18,9 @@ public class WheelOfFortune {
         System.out.println(lineNumber);
         String currentLine = gameFile.nextLine();
         System.out.println(currentLine);
+        for (int j=0; j<currentLine.length(); j++){
+            System.out.printf("_");
+        }
     }
 }
 

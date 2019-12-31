@@ -1,0 +1,10 @@
+package carClasses;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		Model3.myName();
+	}
+
+}

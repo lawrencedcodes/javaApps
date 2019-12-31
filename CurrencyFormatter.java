@@ -13,7 +13,8 @@ public class CurrencyFormatter {
                  scanner.close();
                  
                  String usC = NumberFormat.getCurrencyInstance(Locale.US).format(payment);
-                 String inC = NumberFormat.getCurrencyInstance(Locale.US).format(payment);
+                 Locale myIndia = new Locale("en","in");
+		 String inC = NumberFormat.getCurrencyInstance(myIndia).format(payment);
 		 String cnC = NumberFormat.getCurrencyInstance(Locale.CHINA).format(payment);
 		 String fnC = NumberFormat.getCurrencyInstance(Locale.FRANCE).format(payment);
 

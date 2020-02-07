@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Dr_Pepper extends Beverage {
 
-public class Dr_Pepper {
 }

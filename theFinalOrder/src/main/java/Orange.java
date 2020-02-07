@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Orange extends Beverage {
 
-public class Orange {
 }

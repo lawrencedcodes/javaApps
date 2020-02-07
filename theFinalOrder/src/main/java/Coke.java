@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
-
-public class Coke {
+public class Coke extends Beverage {
+    carbonated = true;
 }

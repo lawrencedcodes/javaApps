@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
+public class Diet_Coke extends Beverage {
 
-public class Diet_Coke {
 }

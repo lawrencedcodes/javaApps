@@ -26,6 +26,7 @@ public class Email {
         System.out.println("The auto-generated password is "+this.password);
 
         String email = firstName.toLowerCase()+"."+lastName.toLowerCase()+"@"+department+companySuffix;
+        System.out.println("New user's email is: "+email);
     }
 
 

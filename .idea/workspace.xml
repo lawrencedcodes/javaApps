@@ -2,248 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/src/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/src/BankManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/src/CertificateOfDeposit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/src/CheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BankManager/src/SavingsAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/CarTemplate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/CarTemplate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Carlot/carClasses/Model5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyFormatter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CurrencyFormatter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FortuneTeller/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FortuneTeller/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FortuneTeller/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FortuneTeller/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/FortuneTeller/src/Fortunes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Game2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/HelloJava.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/out/production/HelloJava/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloJava/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/0.63cd2.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/1.ab78f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/10.170d3.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/11.3dd1a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/2.51c1a.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/2059d2614a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/7.85d1e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/ad_status.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/analytics.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/analytics.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/app.e2853.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/app.f7b7e.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/av16vnft" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/bZ0pmat1nmE.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/base.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/blueshift.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/captions.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/fonts.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/iframe_api" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/jsapi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/katex.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/linkid.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/nr-spa-1099.min.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/remote.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/routes-courses.6feef.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/routes-courses_routes-nanodegrees.7518d.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/saved_resource.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/survey-modal.6e3b3.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/vVB4qXRsC37Dg1P6FS82ZMhKPNReNJhzASTCjR42Djs.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/vendors_app.ddc8c.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/vendors_routes-courses_routes-nanodegrees.98ef2.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/vendors_routes-courses_routes-nanodegrees_routes-settings.222ad.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/vendors_ureact-code-editor.1191f.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/www-embed-player.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/www-player-webp-vflD6psSF.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/www-widgetapi.js.download" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Intro to Java_ Functional Programming - Udacity_files/xpKFHqIWwzU.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/src/Book.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryCatalogue/src/LibraryCatalogue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/NumbersGame.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/out/production/NumbersGame/NumbersGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumbersGame/src/NumbersGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.11.0.20190220-2119.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.tm.terminal.view.ui/.executables/data.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.metadata/version.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.vscode/launch.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/.settings/org.eclipse.wst.server.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.policy" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/catalina.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/context.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/jmxremote.access" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/jmxremote.password" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/server.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/Servers/Pivotal tc Server Developer Edition v4.0-config/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/src/main/java/io/lawrence/lockhart/discoveryserver/DiscoveryServerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/discovery-server/src/test/java/io/lawrence/lockhart/discoveryserver/DiscoveryServerApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/src/main/java/io/lawrence/lockhart/service/ServiceApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pluralsight/service/src/test/java/io/lawrence/lockhart/service/ServiceApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/WheelOfFortune.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/movies.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/out/production/WheelOfFortune/WheelOfFortune.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/WheelOfFortune/src/WheelOfFortune.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/bin/main/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/bin/main/com/example/demo/DemoApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/bin/test/com/example/demo/DemoApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/java/com/example/demo/DemoApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/WordCount.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/mobydick.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/out/production/WordCount/WordCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/filescan/WordCount/src/WordCount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/firstproject.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/out/production/firstproject/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/firstproject/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/import java.util.Scanner;  public class Game1 {  &#9;public static void main(String[] args) {/Game1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java-learning-map.pdf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/Email.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/EmailApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/EmailApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-2.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-3.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/problem-set-4.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pset2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/com/company/Main.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/emailApp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApp/Email.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/emailApp/EmailApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApp/EmailApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/5.2.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.gradle/vcs-1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.settings/org.eclipse.buildship.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Beverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Coke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Diet_Coke.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Dr_Pepper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Mr_Pibb.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Pepsi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Root_Beer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/bin/main/Sprite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Beverage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Coke.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Diet_Coke.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Dr_Pepper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Mr_Pibb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Pepsi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Root_Beer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/theFinalOrder/src/main/java/Sprite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/twosum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/twosum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ud282" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -265,7 +29,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LaunchCode/projects/java2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="EmailApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -317,21 +81,25 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003867952" />
-    <state width="1323" height="316" key="GridCell.Tab.0.bottom" timestamp="1591058585183">
+    <state width="1323" height="282" key="GridCell.Tab.0.bottom" timestamp="1591069283451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="316" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591058585183" />
-    <state width="1323" height="316" key="GridCell.Tab.0.center" timestamp="1591058585182">
+    <state width="1323" height="282" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591069283451" />
+    <state width="1323" height="282" key="GridCell.Tab.0.center" timestamp="1591069283451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="316" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591058585182" />
-    <state width="1323" height="316" key="GridCell.Tab.0.left" timestamp="1591058585182">
+    <state width="1323" height="282" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591069283451" />
+    <state width="1323" height="282" key="GridCell.Tab.0.left" timestamp="1591069283451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="316" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591058585182" />
-    <state width="1323" height="316" key="GridCell.Tab.0.right" timestamp="1591058585182">
+    <state width="1323" height="282" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591069283451" />
+    <state width="1323" height="282" key="GridCell.Tab.0.right" timestamp="1591069283451">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="316" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591058585182" />
+    <state width="1323" height="282" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591069283451" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591059139371">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591059139371" />
   </component>
 </project>

@@ -17,18 +17,15 @@ public class Email {
     public Email(String firstName, String lastName) {
         this.firstName = firstName;
         this.lastName = lastName;
-        System.out.println("Email has been created for "+this.firstName+" "+this.lastName);
 
         //call method asking for department , return it
         this.department = setDepartment();
-        System.out.println("Department is "+this.department);
 
         //call a method that returns a random password
         this.password = randomPassword(defaultPasswordLength);
         System.out.println("The auto-generated password is "+this.password);
 
         String email = firstName.toLowerCase()+"."+lastName.toLowerCase()+"@"+department+companySuffix;
-        System.out.println("Your email is "+email);
     }
 
 
@@ -71,4 +68,11 @@ public class Email {
     public int getMailboxCapacity() { return emailCapacity; }
     public String getAlternateEmail() { return alternateEmail; }
     public String getPassword() { return password; }
+
+    public String showInfo() {
+        return  "\nDisplay name: " + firstName + " " + lastName +
+                "\nCompany email: " + email +
+                "\nMailbox Capacity: " + emailCapacity + "mb";
+        }
 }
+

@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/studentdatabaseapp/StudentDatabaseApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/emailApp/Email.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/emailApp/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/emailApp/Email.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +13,13 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -94,10 +101,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591103405932" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591059139371">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591276480475">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591059139371" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591276480475" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591092436791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

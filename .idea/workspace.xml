@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/studentdatabaseapp/StudentDatabaseApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.StudentDatabaseApp">
     <configuration name="EmailApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="emailApp.EmailApp" />
       <module name="EmailApplication" />
@@ -49,8 +48,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StudentDatabaseApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentdatabaseapp.StudentDatabaseApp" />
+      <module name="EmailApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentdatabaseapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StudentDatabaseApp" />
         <item itemvalue="Application.EmailApp" />
       </list>
     </recent_temporary>
@@ -85,26 +98,26 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003867952" />
-    <state width="1323" height="157" key="GridCell.Tab.0.bottom" timestamp="1591103405932">
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom" timestamp="1591485792008">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591103405932" />
-    <state width="1323" height="157" key="GridCell.Tab.0.center" timestamp="1591103405932">
+    <state width="1323" height="157" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1591485792008" />
+    <state width="1323" height="157" key="GridCell.Tab.0.center" timestamp="1591485792007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591103405932" />
-    <state width="1323" height="157" key="GridCell.Tab.0.left" timestamp="1591103405932">
+    <state width="1323" height="157" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1591485792007" />
+    <state width="1323" height="157" key="GridCell.Tab.0.left" timestamp="1591485792006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591103405932" />
-    <state width="1323" height="157" key="GridCell.Tab.0.right" timestamp="1591103405932">
+    <state width="1323" height="157" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1591485792006" />
+    <state width="1323" height="157" key="GridCell.Tab.0.right" timestamp="1591485792007">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591103405932" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591276480475">
+    <state width="1323" height="157" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1591485792007" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591483615756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591276480475" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591483615756" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591092436791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

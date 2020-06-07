@@ -37,16 +37,16 @@ public class Student {
     public void enroll() {
         //need a loop to be able to add multiple, then a break when done
         do {
-            System.out.println("Enter a course to enroll or Q to quit: ");
+            System.out.print("Enter a course to enroll or Q to quit: ");
             Scanner in = new Scanner(System.in);
             String course = in.nextLine();
-            if (course != "Q") {
+            if (!course.equals("Q")) {
                 courses = courses + "\n" + course;
                 tuitionBalance = tuitionBalance + costOfCourse;
             } else {
                 break;
-            } while (1 !=0);
-        }
+            }
+        } while (1 !=0);
         System.out.println("ENROLLED IN: "+courses);
         System.out.println("Tuition balance is: "+tuitionBalance);
     }

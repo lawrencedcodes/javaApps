@@ -7,8 +7,8 @@ public class Student {
     private String lastName;
     private Integer gradeYear;
     private String studentId;
-    private String courses;
-    private Integer tuitionBalance;
+    private String courses=null;
+    private Integer tuitionBalance = 0;
     private static Integer costOfCourse = 600;
     private static Integer id = 1001;
 
@@ -26,7 +26,6 @@ public class Student {
         setStudentId();
         System.out.println(firstName+ " "+lastName+ " " +gradeYear+ " "+studentId);
 
-
     }
     //Generate an ID
     private void setStudentId() {
@@ -34,9 +33,23 @@ public class Student {
         this.studentId = gradeYear + "" + id;
         id++;
     }
-
     //Enroll in courses
-
+    public void enroll() {
+        //need a loop to be able to add multiple, then a break when done
+        do {
+            System.out.println("Enter a course to enroll or Q to quit: ");
+            Scanner in = new Scanner(System.in);
+            String course = in.nextLine();
+            if (course != "Q") {
+                courses = courses + "\n" + course;
+                tuitionBalance = tuitionBalance + costOfCourse;
+            } else {
+                break;
+            } while (1 !=0);
+        }
+        System.out.println("ENROLLED IN: "+courses);
+        System.out.println("Tuition balance is: "+tuitionBalance);
+    }
     //View balance, pay tuition
 
     //Show status

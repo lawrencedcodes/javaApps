@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountApp/AccountHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountApp/BankAccountApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/Student.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/StudentDatabaseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/StudentDatabaseApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentdatabaseapp/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,10 +130,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596833054763" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597470937388">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597533949345">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597470937388" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597533949345" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591092436791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

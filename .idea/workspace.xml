@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/bankaccountApp/AccountHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bankaccountApp/BankAccountApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountapp/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountapp/Checking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountapp/IBaseRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankaccountapp/Savings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankaccountApp/AccountHolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/AccountHolder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankaccountApp/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -35,6 +40,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunManager" selected="Application.DateTracker">
     <configuration name="DateTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -114,6 +120,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003867952" />
+    <state x="429" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597560111051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1597560111051" />
     <state width="1323" height="91" key="GridCell.Tab.0.bottom" timestamp="1596833054763">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -130,10 +140,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="91" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596833054763" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597533949345">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597629725404">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597533949345" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1597629725404" />
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591092436791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

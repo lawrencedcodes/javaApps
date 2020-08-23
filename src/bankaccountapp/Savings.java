@@ -10,6 +10,11 @@ public class Savings extends Account {
     //Call constructor to initialize checking savings properties
     public Savings(String name, String social, double initDeposit) {
         super(name, social, initDeposit);
-        System.out.println("NEW SAVINGS ACCT");
+        accountNumber = "1" + accountNumber;
+    }
+
+    public void showInfo() {
+        super.showInfo();
+        System.out.println("ACCOUNT TYPE: Savings");
     }
 }

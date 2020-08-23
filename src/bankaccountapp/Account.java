@@ -12,18 +12,13 @@ public abstract class Account implements IBaseRate {
     double rate;
 
     //List common methods for checking and savings
-
     //Constructor to set base properties and initialize acct
     public Account(String name, String social, double initDeposit) {
         this.name = name;
         this.social = social;
         balance = initDeposit;
-
-        System.out.println(name + social + balance);
-
         index++;
         this.accountNumber = setAccountNumber();
-        System.out.println("ACCOUNT NM: " + this.accountNumber);
     }
 
     private String setAccountNumber() {
@@ -31,5 +26,13 @@ public abstract class Account implements IBaseRate {
         int uniqueId = index;
         int randomNumber = (int)(Math.random() * Math.pow(10,3));
         return lastTwo + uniqueId + randomNumber;
+    }
+
+    public void showInfo() {
+        System.out.println(
+                "NAME: " + name +
+                "\nACCOUNT NUMBER:"  + accountNumber +
+                "\nBALANCE: " + balance
+        );
     }
 }

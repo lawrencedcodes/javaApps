@@ -8,7 +8,9 @@ public class BankAccountApp {
         Checking chkacct1 = new Checking("John Doe", "123456789",5000);
 
         Savings svacct1 = new Savings("Bota Rwanda", "987654321", 2000);
-        //do stuff create account generate ID number
-        //do other stuff
+
+        svacct1.showInfo();
+        System.out.println("**************");
+        chkacct1.showInfo();
     }
 }

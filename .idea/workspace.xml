@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="671a1a0d-05db-41b3-b672-1399f88474f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Checking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Savings.java" afterDir="false" />
     </list>
@@ -136,22 +134,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="429" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1597560111051" />
-    <state width="1323" height="90" key="GridCell.Tab.0.bottom" timestamp="1598225702836">
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom" timestamp="1598234147329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="90" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598225702836" />
-    <state width="1323" height="90" key="GridCell.Tab.0.center" timestamp="1598225702836">
+    <state width="1323" height="286" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598234147329" />
+    <state width="1323" height="286" key="GridCell.Tab.0.center" timestamp="1598234147329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="90" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598225702836" />
-    <state width="1323" height="90" key="GridCell.Tab.0.left" timestamp="1598225702836">
+    <state width="1323" height="286" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598234147329" />
+    <state width="1323" height="286" key="GridCell.Tab.0.left" timestamp="1598234147329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="90" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598225702836" />
-    <state width="1323" height="90" key="GridCell.Tab.0.right" timestamp="1598225702836">
+    <state width="1323" height="286" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598234147329" />
+    <state width="1323" height="286" key="GridCell.Tab.0.right" timestamp="1598234147329">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="90" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598225702836" />
+    <state width="1323" height="286" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598234147329" />
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1597810466496">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -160,5 +158,23 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1591092436791" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1598234118739">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598234118739" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java</url>
+          <line>4</line>
+          <properties class="bankaccountapp.BankAccountApp" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

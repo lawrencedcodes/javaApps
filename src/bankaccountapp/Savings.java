@@ -11,10 +11,19 @@ public class Savings extends Account {
     public Savings(String name, String social, double initDeposit) {
         super(name, social, initDeposit);
         accountNumber = "1" + accountNumber;
+        setSafetyDepositBox();
+    }
+    private void setSafetyDepositBox() {
+        safetyDepositBoxId = (int) (Math.random()*Math.pow(10,3));
+        safetyDepositBoxKey = (int) (Math.random()*Math.pow(10,4));
     }
 
     public void showInfo() {
         super.showInfo();
-        System.out.println("ACCOUNT TYPE: Savings");
+        System.out.println(
+                " Your savings account features" +
+                "\n Safety Deposit Box ID: " + safetyDepositBoxId +
+                "\n Safety Deposit Box Key: " + safetyDepositBoxKey
+        );
     }
 }

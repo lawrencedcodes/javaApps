@@ -5,6 +5,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Account.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Checking.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Checking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/bankaccountapp/Savings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/Savings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,9 +160,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1591092436791" />
-    <state x="339" y="162" key="run.anything.popup" timestamp="1598234118739">
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598608433816">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598234118739" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598608433816" />
   </component>
 </project>

@@ -4,12 +4,13 @@ import java.util.Random;
 
 public abstract class Account implements IBaseRate {
     //List common properties for checking and savings
-    String name;
-    String social;
-    double balance;
-    static int index = 1000;
-    String accountNumber;
-    double rate;
+    private String name;
+    private String social;
+    private double balance;
+
+    private static int index = 1000;
+    protected String accountNumber;
+    protected double rate;
 
     //List common methods for checking and savings
     //Constructor to set base properties and initialize acct

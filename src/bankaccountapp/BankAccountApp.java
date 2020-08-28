@@ -9,6 +9,7 @@ public class BankAccountApp {
         Savings svacct1 = new Savings("Bota Rwanda", "987654321", 2000);
 
         svacct1.compound();
+
         svacct1.showInfo();
         System.out.println("**************");
         chkacct1.showInfo();

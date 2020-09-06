@@ -9,8 +9,12 @@
       <change afterPath="$PROJECT_DIR$/src/bankcountapp/Savings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/Student.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/StudentDatabaseApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailApplication/studentdatabaseapp/StudentDatabaseApp.class" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bankaccountapp/BankAccountApp.java" afterDir="false" />
+>>>>>>> 6710df7c212f638def438d11642a9ee8361bcda3
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +43,45 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../APP3535148/rfid-consumer-service" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.EmailApp">
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunManager" selected="Application.BankAccountApp">
+    <configuration name="BankAccountApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankaccountapp.BankAccountApp" />
+      <module name="EmailApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankaccountapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DateTracker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calendar.DateTracker" />
+      <module name="EmailApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+>>>>>>> 6710df7c212f638def438d11642a9ee8361bcda3
     <configuration name="EmailApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="emailApp.EmailApp" />
       <module name="EmailApplication" />
@@ -72,6 +110,12 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
+=======
+        <item itemvalue="Application.BankAccountApp" />
+        <item itemvalue="Application.DateTracker" />
+        <item itemvalue="Application.StudentDatabaseApp" />
+>>>>>>> 6710df7c212f638def438d11642a9ee8361bcda3
         <item itemvalue="Application.EmailApp" />
         <item itemvalue="Application.StudentDatabaseApp" />
       </list>
@@ -107,6 +151,7 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="531" y="254" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1591003867952" />
+<<<<<<< HEAD
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1597434339084">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -143,9 +188,43 @@
     <state x="426" y="214" key="com.intellij.ide.util.TipDialog/0.0.1536.824/-911.-1080.1920.1040/1009.-1080.1920.1040@0.0.1536.824" timestamp="1597434295219" />
     <state x="426" y="214" key="com.intellij.ide.util.TipDialog/0.0.1536.824/1009.-1080.1920.1040/-911.-1080.1920.1040@0.0.1536.824" timestamp="1596640507171" />
     <state x="426" y="214" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594387607343" />
+=======
+    <state x="429" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597560111051">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="429" y="221" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1597560111051" />
+    <state width="1323" height="99" key="GridCell.Tab.0.bottom" timestamp="1598708771315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="99" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1598708771315" />
+    <state width="1323" height="99" key="GridCell.Tab.0.center" timestamp="1598708771315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="99" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1598708771315" />
+    <state width="1323" height="99" key="GridCell.Tab.0.left" timestamp="1598708771315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="99" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1598708771315" />
+    <state width="1323" height="99" key="GridCell.Tab.0.right" timestamp="1598708771315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="99" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1598708771315" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1598700486218">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598700486218" />
+    <state x="481" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598609473498">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="481" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1598609473498" />
+>>>>>>> 6710df7c212f638def438d11642a9ee8361bcda3
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591092436791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1591092436791" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1598608433816">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1598608433816" />
   </component>
 </project>

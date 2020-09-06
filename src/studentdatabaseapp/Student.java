@@ -1,6 +1,8 @@
 package studentdatabaseapp;
 
+
 import java.util.Scanner;
+
 
 public class Student {
     private String firstName;
@@ -14,6 +16,7 @@ public class Student {
 
     //Constructor prompt for student name and year
     public Student() {
+
         Scanner in = new Scanner(System.in);
         System.out.println("Enter student first name ");
         this.firstName = in.nextLine();

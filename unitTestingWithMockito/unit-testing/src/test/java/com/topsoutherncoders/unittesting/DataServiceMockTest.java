@@ -1,43 +1,37 @@
 package com.topsoutherncoders.unittesting;
 
 import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.mockito.junit.jupiter.MockitoExtension;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-import static org.mockito.Mockito.mock;
 import static org.mockito.Mockito.when;
 
+@ExtendWith(MockitoExtension.class)
 public class DataServiceMockTest {
+
+    @InjectMocks
+    BusinessImpl business = new BusinessImpl();
+    @Mock
+    Dataservice dataserviceMock;
 
     @Test
     void calSumWithService() {
-        BusinessImpl business = new BusinessImpl();
-        Dataservice dataserviceMock = mock(Dataservice.class);
-        // Dataservice retrieveAll method
         when(dataserviceMock.retrieveAllData()).thenReturn(new int[] {1,2,3});
-        business.setDataservice(dataserviceMock);
-        int actualResult = business.calcSumWithService();
-        int expectedResult = 6;
-        assertEquals(expectedResult, actualResult);
+        assertEquals(6, business.calcSumWithService());
     }
+
     @Test
     void calcSumEmptyWithService() {
-        BusinessImpl business = new BusinessImpl();
-        Dataservice dataserviceMock = mock(Dataservice.class);
         when(dataserviceMock.retrieveAllData()).thenReturn(new int[]{});
-        business.setDataservice(dataserviceMock);
-        int testResult = business.calcSumWithService(); //new int[] {}
-        int expected = 0;
-        assertEquals(expected, testResult);
+        assertEquals(0, business.calcSumWithService());
     }
 
     @Test
     void calcSumRepeatingWithService() {
-        BusinessImpl business = new BusinessImpl();
-        Dataservice dataservicemock2 = mock(Dataservice.class);
-        when(dataservicemock2.retrieveAllData()).thenReturn(new int[] {9,9,9,9,9,9});
-        business.setDataservice(dataservicemock2);
-        int testResult = business.calcSumWithService(); //repeatingArray
-        int expected = 54;
-        assertEquals(expected, testResult);
+        when(dataserviceMock.retrieveAllData()).thenReturn(new int[] {9,9,9,9,9,9});
+        assertEquals(54, business.calcSumWithService());
     }
 }

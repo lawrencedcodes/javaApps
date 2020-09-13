@@ -30,4 +30,6 @@ class BusinessImplTest {
         int expected = repeatingArray[0] * repeatingArray.length;
         assertEquals(expected, testResult);
     }
+
+
 }
